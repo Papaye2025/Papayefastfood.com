@@ -1289,11 +1289,11 @@ nav ul li:hover ul.dropbtn, ::after{
         }
 
       p {
-        font-size: 1m;
+        font-size: .9m;
       }
 
       b {
-        font-size: 1.2em;
+        font-size: 1em;
       }
     }
 
@@ -1375,6 +1375,7 @@ nav ul li:hover ul.dropbtn, ::after{
 
 
 }
+
 
 
 
