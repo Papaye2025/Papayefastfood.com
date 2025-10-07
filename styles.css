@@ -1193,7 +1193,6 @@ nav ul li:hover ul.dropbtn, ::after{
         flex-direction: column;
         max-width: 400px;
         width: 100%;
-        padding-top: 100px;
     }
 
 
@@ -1229,6 +1228,10 @@ nav ul li:hover ul.dropbtn, ::after{
         padding-top: 100px;
     }
 
+  .home-contn {
+    margin-left: 10px;
+  }
+
     .home-contn p {
         font-size: 1rem;
     }
@@ -1242,7 +1245,6 @@ nav ul li:hover ul.dropbtn, ::after{
         justify-content: center;
         align-items: center;
         padding: 0;
-        padding-top: 100px;
     }
 
     .menu-wrapper {
@@ -1255,7 +1257,7 @@ nav ul li:hover ul.dropbtn, ::after{
     .full-pack-content {
         border: 1px solid orangered;
         border-radius: 10px;
-        max-width: 340px;
+        max-width: 310px;
         margin: 0 auto;
 
         img {
@@ -1263,6 +1265,14 @@ nav ul li:hover ul.dropbtn, ::after{
             width: 100%;
             animation: m-icons 08s ease-in-out 0s infinite;
         }
+
+      p {
+        font-size: 1.2em;
+      }
+
+      b {
+        font-size: 1.5em;
+      }
     }
 
     @keyframes m-icons {
@@ -1339,6 +1349,7 @@ nav ul li:hover ul.dropbtn, ::after{
     }
 
     /* ============ Footer End ==============*/
+
 
 
 }
