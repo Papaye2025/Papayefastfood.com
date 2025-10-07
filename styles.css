@@ -945,6 +945,10 @@ nav ul li:hover ul.dropbtn, ::after{
 
     }
 
+    h1, h2 {
+        font-size: 1.4rem;
+    }
+
 
     nav ul li  {
         display: inline-block;
@@ -960,7 +964,7 @@ nav ul li:hover ul.dropbtn, ::after{
         width: 100%;
         margin: auto 0;  
         transition: .5s ease; 
-        font-size: 1.5em;     
+        font-size: 1.3em;     
     }
 
     nav ul li a::after {
@@ -1210,7 +1214,7 @@ nav ul li:hover ul.dropbtn, ::after{
         flex-direction: column;
 
         h1 {
-            font-size: 2rem;
+            font-size: 1.4rem;
             letter-spacing: -1px;
         }
 
@@ -1225,7 +1229,7 @@ nav ul li:hover ul.dropbtn, ::after{
         h2{
             margin-bottom: 20px;
            margin-left: 50px;
-           font-size: 2em;
+           font-size: 1.2em;
         }
     }
     /* ======== contact End ======== */
@@ -1267,10 +1271,11 @@ nav ul li:hover ul.dropbtn, ::after{
         border: 1px solid orangered;
         border-radius: 10px;
         max-width: 310px;
+        w1dth: 100%;
         margin: 0 auto;
 
         img {
-           max-width: 300px;
+           max-width: 270px;
             width: 100%;
             animation: m-icons 08s ease-in-out 0s infinite;
         }
@@ -1362,6 +1367,7 @@ nav ul li:hover ul.dropbtn, ::after{
 
 
 }
+
 
 
 
