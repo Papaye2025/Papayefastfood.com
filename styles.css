@@ -168,7 +168,7 @@ nav ul li:hover ul.dropbtn, ::after{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 50vh;
+    height: 40vh;
     background-image: url(logo-bg.jpg);
     background-repeat: no-repeat;
 }
@@ -376,6 +376,7 @@ nav ul li:hover ul.dropbtn, ::after{
         margin: 0 auto;
         padding: 20px;
         text-align: center;
+        padding-top: 30px;
 
         h1{
             text-align: center;
@@ -471,7 +472,7 @@ nav ul li:hover ul.dropbtn, ::after{
         gap: 10px;
         padding: 10px;
         margin: 0 auto;
-        margin-top: 80px;
+        padding-top: 80px;
     }
 
     .home-contn {
@@ -479,8 +480,8 @@ nav ul li:hover ul.dropbtn, ::after{
         /* border: 3px outset; */
         border-radius: 10px;
         border-color: orangered;
-        max-width: 800px;
-        padding: 5px;
+        max-width: 900px;
+        padding: 10px;
 
         img {
            margin-top: 40px;
@@ -561,7 +562,7 @@ nav ul li:hover ul.dropbtn, ::after{
         text-transform: capitalize;
         text-align: center;
         color: #ff4500;
-        margin-top: 80px;
+        padding-top: 80px;
 
         h1 {
              font-size: 2rem;
@@ -596,7 +597,7 @@ nav ul li:hover ul.dropbtn, ::after{
         }
         b {
             color: #ff4500;
-            font-weight: 500;
+            font-weight: 700;
             font-size: 2rem;
         }
 
@@ -616,7 +617,7 @@ nav ul li:hover ul.dropbtn, ::after{
         margin: auto;
         max-width: 90%;
         padding: 10px;
-        margin-top: 10px;
+        pudding-top: 10px;
 
         h1 {
         color: #e74c3c;
@@ -1360,4 +1361,5 @@ nav ul li:hover ul.dropbtn, ::after{
 
 
 }
+
 
