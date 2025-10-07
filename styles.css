@@ -629,6 +629,9 @@ nav ul li:hover ul.dropbtn, ::after{
         font-size: 2rem;
         margin-top: 20px;
       }
+        h3 {
+             font-size: 2rem;
+        }
     }
       
 
@@ -1372,6 +1375,7 @@ nav ul li:hover ul.dropbtn, ::after{
 
 
 }
+
 
 
 
