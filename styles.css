@@ -376,7 +376,7 @@ nav ul li:hover ul.dropbtn, ::after{
         margin: 0 auto;
         padding: 20px;
         text-align: center;
-        padding-top: 60px;
+        padding-top: 80px;
 
         h1{
             text-align: center;
@@ -607,8 +607,9 @@ nav ul li:hover ul.dropbtn, ::after{
             font-weight: 400;
         }
 
-        h1{
+        h2{
             text-transform: capitalize;
+             font-size: 1.5rem;
         }
     }
     /* =================== Menu End ========== */
@@ -1270,22 +1271,26 @@ nav ul li:hover ul.dropbtn, ::after{
     .full-pack-content {
         border: 1px solid orangered;
         border-radius: 10px;
-        max-width: 310px;
+        max-width: 290px;
         w1dth: 100%;
         margin: 0 auto;
 
+        h2 {
+             font-size: 1.4m;
+        }
+
         img {
-           max-width: 270px;
+           max-width: 260px;
             width: 100%;
             animation: m-icons 08s ease-in-out 0s infinite;
         }
 
       p {
-        font-size: 1.2em;
+        font-size: 1m;
       }
 
       b {
-        font-size: 1.5em;
+        font-size: 1.2em;
       }
     }
 
@@ -1367,6 +1372,7 @@ nav ul li:hover ul.dropbtn, ::after{
 
 
 }
+
 
 
 
