@@ -1271,7 +1271,7 @@ nav ul li:hover ul.dropbtn, ::after{
     .full-pack-content {
         border: 1px solid orangered;
         border-radius: 10px;
-        max-width: 290px;
+        min-width: 300px;
         w1dth: 100%;
         margin: 0 auto;
 
@@ -1372,6 +1372,7 @@ nav ul li:hover ul.dropbtn, ::after{
 
 
 }
+
 
 
 
