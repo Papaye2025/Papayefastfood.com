@@ -168,7 +168,7 @@ nav ul li:hover ul.dropbtn, ::after{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 50vh;
     background-image: url(logo-bg.jpg);
     background-repeat: no-repeat;
 }
@@ -466,20 +466,21 @@ nav ul li:hover ul.dropbtn, ::after{
     /* =============== About Start =========== */
     .about-homepage {
         position: relative;
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        gap: 20px;
-        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 10px;
         margin: 0 auto;
+        margin-top: 80px;
     }
 
     .home-contn {
-        box-shadow: 0 0 5px;
-        border: 3px outset;
+        /* box-shadow: 0 0 5px; */
+        /* border: 3px outset; */
         border-radius: 10px;
         border-color: orangered;
         max-width: 800px;
-        padding: 10px;
+        padding: 5px;
 
         img {
            margin-top: 40px;
@@ -560,6 +561,7 @@ nav ul li:hover ul.dropbtn, ::after{
         text-transform: capitalize;
         text-align: center;
         color: #ff4500;
+        margin-top: 80px;
 
         h1 {
              font-size: 2rem;
@@ -602,6 +604,10 @@ nav ul li:hover ul.dropbtn, ::after{
             font-size: 1.5rem;
             font-weight: 400;
         }
+
+        h1{
+            text-transform: capitalize;
+        }
     }
     /* =================== Menu End ========== */
 
@@ -610,6 +616,7 @@ nav ul li:hover ul.dropbtn, ::after{
         margin: auto;
         max-width: 90%;
         padding: 10px;
+        margin-top: 10px;
 
         h1 {
         color: #e74c3c;
@@ -1228,7 +1235,7 @@ nav ul li:hover ul.dropbtn, ::after{
         padding-top: 100px;
     }
 
-  .home-contn {
+  .home-contn img {
     margin-left: 10px;
   }
 
@@ -1353,3 +1360,4 @@ nav ul li:hover ul.dropbtn, ::after{
 
 
 }
+
