@@ -1339,7 +1339,7 @@ nav ul li:hover ul.dropbtn, ::after{
         display: flex;
         flex-direction: column;
         h1 {
-            font-size: 2em;
+            font-size: 1.4em;
             color: orangered;
         }
        p{
@@ -1358,10 +1358,10 @@ nav ul li:hover ul.dropbtn, ::after{
 
     .phone  {
         h1{
-            font-size: 2rem;
+            font-size: 1.4rem;
         }
         a{
-            font-size: 1.7rem;
+            font-size: 1.2rem;
             color: currentColor;
         }
 
@@ -1375,6 +1375,7 @@ nav ul li:hover ul.dropbtn, ::after{
 
 
 }
+
 
 
 
