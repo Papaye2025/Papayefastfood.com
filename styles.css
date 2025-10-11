@@ -586,7 +586,6 @@ nav ul li:hover ul.dropbtn, ::after{
     }
 
     .full-pack-content {
-       /* border: 1px solid #ff4500; */
         border-radius: 10px;
         min-width: 400px;
         padding: 10px;
@@ -612,6 +611,10 @@ nav ul li:hover ul.dropbtn, ::after{
              font-size: 1.5rem;
         }
     }
+
+      .full-pack-content {
+          border: 1px solid #ff4500;
+      }
     /* =================== Menu End ========== */
 
     /* ================== Privacy policy ========== */
@@ -1374,6 +1377,7 @@ nav ul li:hover ul.dropbtn, ::after{
 
 
 }
+
 
 
 
