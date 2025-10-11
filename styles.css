@@ -586,7 +586,7 @@ nav ul li:hover ul.dropbtn, ::after{
     }
 
     .full-pack-content {
-        border: 1px solid #ff4500;
+       /* border: 1px solid #ff4500; */
         border-radius: 10px;
         min-width: 400px;
         padding: 10px;
@@ -871,7 +871,6 @@ nav ul li:hover ul.dropbtn, ::after{
     }
 
     .full-pack-content {
-        border: 1px solid #ff4500;
         border-radius: 10px;
         min-width: 400px;
         width: 100%;
@@ -1272,7 +1271,7 @@ nav ul li:hover ul.dropbtn, ::after{
     }
 
     .full-pack-content {
-        border: 1px solid orangered;
+        /*border: 1px solid orangered;*/
         border-radius: 10px;
         min-width: 300px;
         w1dth: 100%;
@@ -1375,6 +1374,7 @@ nav ul li:hover ul.dropbtn, ::after{
 
 
 }
+
 
 
 
